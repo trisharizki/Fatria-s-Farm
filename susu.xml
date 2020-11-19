@@ -1,0 +1,22 @@
+<PRODUK>
+    <SUSU>
+        <UKURAN>Fatria's Milk 250 ml</UKURAN>
+        <NAMA>Full Cream</NAMA>
+        <HARGA>Rp.10,000</HARGA>
+    </SUSU>
+    <SUSU>
+        <UKURAN>Fatria's Milk 250 ml</UKURAN>
+        <NAMA>Rasa Coklat</NAMA>
+        <HARGA>Rp.10,000</HARGA>
+    </SUSU>
+    <SUSU>
+        <UKURAN>Fatria's Milk 250 ml</UKURAN>
+        <NAMA>Rasa Strawberry</NAMA>
+        <HARGA>Rp.10,000</HARGA>
+    </SUSU>
+    <SUSU>
+        <UKURAN>Fatria's Milk 250 ml</UKURAN>
+        <NAMA>Rasa Keju</NAMA>
+        <HARGA>Rp.12,000</HARGA>
+    </SUSU>
+</PRODUK>

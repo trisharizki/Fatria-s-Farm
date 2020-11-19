@@ -1,0 +1,31 @@
+body {
+	background-color: #ffff;
+	color:#000000;
+	font-family:verdana, arial, heltevica, sans-serif;
+    font-size:15px;
+	margin: 0px 0px;
+	padding:0px;	
+}
+#container{
+	margin:0px auto;
+	text-align:left;
+	width:717px;
+}
+#header{
+    background-color: black;
+	margin:0px auto;
+	width:1400px;
+	height:255px;
+	position:relative;
+}
+.centered {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -100px;
+}
+.container-foot{
+    background-color: #98C2F9;
+    padding: 50px;
+}
